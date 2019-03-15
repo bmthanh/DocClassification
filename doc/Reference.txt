@@ -1,0 +1,5 @@
+Open word and pdf file
+https://code.tutsplus.com/tutorials/how-to-work-with-pdf-documents-using-python--cms-25726
+
+http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html
+
